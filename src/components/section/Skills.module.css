@@ -1,0 +1,45 @@
+.skills{
+    display: flex;
+    flex-direction: column;
+    background-color: #232323;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    color: #c7c7c7;
+}
+
+    .skills h1{
+        font-size: 5.2vw;
+    }
+
+section{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    margin: 20px 30px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+#html:hover{
+    color: #ef6024;
+}
+
+#css:hover{
+    color: #2b65ed;
+}
+
+#js:hover{
+    color: #f1bf26;
+}
+
+#react:hover{
+    color: #00d8ff;
+}
+
+#git:hover{
+    color: #6d2c88;
+}

@@ -1,0 +1,18 @@
+.btn{
+    width: 40%;
+    margin: 30px;
+    margin-bottom: 150px;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #232323;
+    color: aliceblue;
+    border-radius: 5px;
+    border: 2px solid #00d8ff;
+    transition-duration: 500ms;
+}
+
+.btn:hover{
+    background-color: #00d8ff;
+    cursor: pointer;
+}

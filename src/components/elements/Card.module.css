@@ -1,0 +1,27 @@
+.card{
+    color: rgb(0, 0, 0);
+    margin: 20px auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: 320px;
+    background-size: cover;
+}
+
+.card div{
+    background-color: rgba(232, 236, 236, 0.596);
+    width: 400px;
+}
+
+.card img{
+    width: 600px;
+}
+
+.card h3, p{
+    margin: 30px;
+}
+
+.card a{
+    margin: 0;
+}

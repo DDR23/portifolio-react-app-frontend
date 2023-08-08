@@ -1,0 +1,31 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /*background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 48%, rgba(0,212,255,1) 100%);*/
+    background-color: #232323;
+    backdrop-filter: blur(15px);
+    border-bottom: 2px solid #00d8ff;
+    z-index: 1;
+}
+
+.navbar ul{
+    display: flex;
+    margin: 10px 60px;
+    padding: 0;
+    color: rgb(250, 250, 250);
+}
+
+.navbar li{
+    margin: 5px 10px;
+    list-style: none;
+}
+
+.navbar a{
+    color: rgb(250, 250, 250) !important;
+    text-decoration: none;
+}

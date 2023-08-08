@@ -1,0 +1,29 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #232323;
+}
+
+.footer ul{
+    display: flex;
+    margin: 10px;
+    padding: 0;
+}
+
+.footer li{
+    margin: 5px 10px;
+    list-style: none;
+}
+
+.footer a{
+    color: rgb(250, 250, 250) !important;
+    text-decoration: none;
+}
+
+.footer p{
+    margin: 20px;
+    margin-top: 0;
+    color: aliceblue;
+}

@@ -1,0 +1,20 @@
+.presentation{
+    padding: 30px 10px !important;
+    margin: 300px auto 50px !important;
+    width: 70%;
+    padding: 0px;
+    
+}
+
+.presentation h1{
+    color: #00d8ff;
+    font-size: 5.2vw;
+    padding: 0px 5px;
+}
+
+.presentation p{
+    margin: auto;
+    color: aliceblue;
+    padding: 10px;
+    width: 70%;
+}
