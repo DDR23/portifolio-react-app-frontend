@@ -24,6 +24,11 @@ section{
     cursor: pointer;
 }
 
+    .logo:hover{
+        transform: translateY(-10px);
+        transition-duration: .5s;
+    }
+
 #html:hover{
     color: #ef6024;
 }
