@@ -3,7 +3,7 @@
 ## Sobre o projeto
 Essa atividade trata-se de ums pagina de apresentação sobre mim.
 
-Projeto hospedado em: 
+Projeto hospedado em: https://atividade-frontend-react-app-escola-dnc.vercel.app/
 
 ## Comandos para rodar o projeto
 
