@@ -1,4 +1,4 @@
-# atividade---FRONTEND---react-app---Escola-DNC
+# portifolio-react-app-frontend
 
 ## Sobre o projeto
 Essa atividade trata-se de ums pagina de apresentação sobre mim.
